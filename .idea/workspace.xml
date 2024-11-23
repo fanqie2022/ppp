@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f88ab3a-4be7-4596-b7b1-0a6a717b5700" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ppp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ppp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/Autovisor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/Autovisor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/block.png" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/block.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/build.py" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/build.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/configs.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/configs.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/鸣谢名单.md" beforeDir="false" afterPath="$PROJECT_DIR$/Autovisor-main/Autovisor-main/鸣谢名单.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fanqie2022&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fanqie2022/py.git&quot;,
+    &quot;accountId&quot;: &quot;0897caf1-c08a-4b7d-8314-c3bb86b96052&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2R6F7dRik0zM0fVonHJ6qVMSwoX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Autovisor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.get_all_course.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.progress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/daima/ppp/Autovisor-main/Autovisor-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\daima\ppp\Autovisor-main\Autovisor-main" />
+      <recent name="E:\daima\ppp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\daima\ppp\Autovisor-main\Autovisor-main" />
+      <recent name="E:\daima\ppp" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip install -r requirements.txt" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.__init__ (2)">
+    <configuration name="Autovisor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Autovisor-main/Autovisor-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Autovisor-main/Autovisor-main/Autovisor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pip/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/epic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epic/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cidian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cidian/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Autovisor-main/Autovisor-main/res" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Autovisor-main/Autovisor-main/res/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__ (2)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.utils" />
+        <item itemvalue="Python.Autovisor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4f88ab3a-4be7-4596-b7b1-0a6a717b5700" name="更改" comment="" />
+      <created>1686562458925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686562458925</updated>
+      <workItem from="1686562460685" duration="395000" />
+      <workItem from="1687015748571" duration="266000" />
+      <workItem from="1687019453152" duration="393000" />
+      <workItem from="1687439110573" duration="43000" />
+      <workItem from="1687439651446" duration="621000" />
+      <workItem from="1687440650978" duration="179000" />
+      <workItem from="1688277552927" duration="67000" />
+      <workItem from="1688305964811" duration="322000" />
+      <workItem from="1688309010666" duration="1368000" />
+      <workItem from="1688314642813" duration="1000" />
+      <workItem from="1694765185613" duration="59000" />
+      <workItem from="1694765260822" duration="6000" />
+      <workItem from="1694765445808" duration="58000" />
+      <workItem from="1694773001994" duration="142000" />
+      <workItem from="1695529184390" duration="1307000" />
+      <workItem from="1695535260592" duration="92000" />
+      <workItem from="1695635856578" duration="377000" />
+      <workItem from="1697270449019" duration="189000" />
+      <workItem from="1698296106635" duration="35000" />
+      <workItem from="1699850282388" duration="30000" />
+      <workItem from="1700744781130" duration="31000" />
+      <workItem from="1725544177135" duration="146000" />
+      <workItem from="1725544330606" duration="1198000" />
+      <workItem from="1725547945455" duration="166000" />
+      <workItem from="1728795405249" duration="1830000" />
+      <workItem from="1728886389961" duration="3000" />
+      <workItem from="1728891583306" duration="85000" />
+      <workItem from="1728894690618" duration="51000" />
+      <workItem from="1728972715557" duration="45000" />
+      <workItem from="1729592930596" duration="2713000" />
+      <workItem from="1730100123628" duration="1845000" />
+      <workItem from="1730113599147" duration="1475000" />
+      <workItem from="1730633890907" duration="4483000" />
+      <workItem from="1730701982905" duration="1715000" />
+      <workItem from="1730703816058" duration="2236000" />
+      <workItem from="1731309673170" duration="199000" />
+      <workItem from="1731309888484" duration="594000" />
+      <workItem from="1731905129173" duration="8674000" />
+      <workItem from="1731930075232" duration="6423000" />
+      <workItem from="1731997837733" duration="1250000" />
+      <workItem from="1731999128495" duration="967000" />
+      <workItem from="1732000369594" duration="1330000" />
+      <workItem from="1732201875940" duration="185000" />
+      <workItem from="1732203305375" duration="1493000" />
+      <workItem from="1732205251727" duration="53000" />
+      <workItem from="1732205627834" duration="600000" />
+      <workItem from="1732250081393" duration="4671000" />
+      <workItem from="1732338188415" duration="304000" />
+    </task>
+    <task id="LOCAL-00001" summary="q">
+      <option name="closed" value="true" />
+      <created>1730702678273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730702678273</updated>
+    </task>
+    <task id="LOCAL-00002" summary="q">
+      <option name="closed" value="true" />
+      <created>1730702727388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730702727388</updated>
+    </task>
+    <task id="LOCAL-00003" summary="q">
+      <option name="closed" value="true" />
+      <created>1730702743696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730702743696</updated>
+    </task>
+    <task id="LOCAL-00004" summary="q">
+      <option name="closed" value="true" />
+      <created>1731912509191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731912509191</updated>
+    </task>
+    <task id="LOCAL-00005" summary="q">
+      <option name="closed" value="true" />
+      <created>1731912585865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731912585865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="q">
+      <option name="closed" value="true" />
+      <created>1731915269685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731915269685</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="q" />
+    <option name="LAST_COMMIT_MESSAGE" value="q" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ppp$activate_this.coverage" NAME="activate_this 覆盖结果" MODIFIED="1687019881296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
+    <SUITE FILE_PATH="coverage/ppp$main.coverage" NAME="main 覆盖结果" MODIFIED="1730702002450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeibanCourseHelper-master" />
+    <SUITE FILE_PATH="coverage/ppp$get_all_course.coverage" NAME="get_all_course 覆盖结果" MODIFIED="1730637554823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anquanweike-main" />
+    <SUITE FILE_PATH="coverage/ppp$Autovisor.coverage" NAME="Autovisor 覆盖结果" MODIFIED="1732205268696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Autovisor-main/Autovisor-main" />
+    <SUITE FILE_PATH="coverage/ppp$cctt.coverage" NAME="cctt 覆盖结果" MODIFIED="1688310363995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppp$progress.coverage" NAME="progress 覆盖结果" MODIFIED="1731999584083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Autovisor-main/Autovisor-main/res" />
+    <SUITE FILE_PATH="coverage/ppp$__init____2_.coverage" NAME="__init__ (2) 覆盖结果" MODIFIED="1732338620988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epic" />
+    <SUITE FILE_PATH="coverage/ppp$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1730636727136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeibanTool-master" />
+    <SUITE FILE_PATH="coverage/ppp$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1732338591743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cidian" />
+    <SUITE FILE_PATH="coverage/ppp$_virtualenv.coverage" NAME="_virtualenv 覆盖结果" MODIFIED="1687440326742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages" />
+    <SUITE FILE_PATH="coverage/ppp$7_1.coverage" NAME="7.1 覆盖结果" MODIFIED="1695636226135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppp$utils.coverage" NAME="utils 覆盖结果" MODIFIED="1732332603929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Autovisor-main/Autovisor-main/res" />
+    <SUITE FILE_PATH="coverage/ppp$logger.coverage" NAME="logger 覆盖结果" MODIFIED="1732205036230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Autovisor-main/Autovisor-main/modules" />
+    <SUITE FILE_PATH="coverage/ppp$__init____1_.coverage" NAME="__init__ (1) 覆盖结果" MODIFIED="1732338490448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pip" />
+  </component>
+</project>
